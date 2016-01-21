@@ -73,7 +73,7 @@ if ( ! class_exists( 'HtmlScreenshot' ) ) {
 
 
 		/**
-		 * Add the setting fields to the General settings page.
+		 * Add the HtmlScreenshot page to the admin menu
 		 *
 		 * @access public
 		 */

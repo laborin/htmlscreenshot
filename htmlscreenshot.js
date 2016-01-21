@@ -18,9 +18,7 @@
 			slidingButton.stop().animate({bottom:0},200);
 		});
 		slidingButton.mouseleave(function(){
-			slidingButton.stop().animate({bottom:-40},200);
+			slidingButton.stop().animate({bottom:-15},200);
 		});
-		//ajax_object.ajax_url
-
 	} );
 }( jQuery ) );

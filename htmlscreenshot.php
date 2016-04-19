@@ -4,7 +4,7 @@ Plugin Name: HtmlScreenshot
 Plugin URI: https://elaborin.com/playground
 Description: Allows any user to send a screenshot of the page to the site administrators.
 Version: 0.1
-Author: Laborin
+Author: Emmanuel Laborin
 Author URI: http://elaborin.com/playground
 */
 

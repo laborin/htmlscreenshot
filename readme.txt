@@ -10,8 +10,7 @@ Wordpress plugin. Allows any user to send a screenshot of the page to the site a
 
 == Description ==
 
-I made this simple plugin just to have something to attach to my job application for Incsub, because I am not
-a hardcore wp plugin developer, but i know the inner working of wordpress and this is my way of showing it.
+Allows any user to send a screenshot of the page to the site administrators.
 
 == Installation ==
 
